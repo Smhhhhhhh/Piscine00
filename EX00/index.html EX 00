@@ -1,0 +1,61 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>  El País | El periodico global </title>
+
+<img style="width: 10%"; src="./images/2560px-El_Pais_logo_2007.png">
+<h1>El País | El periodico global</h1>
+</head>
+
+  <body>
+    <ol>
+        <li>El nacimiento d'El País </li>
+        <li>Ideología</li>
+        <li>Reconocimiento mundial </li>
+        <li>Gran cambio</li>
+        <li>Algunas cifras</li>
+        </ol>
+
+    <h1> El nacimiento d'El País </h1>
+    <p1> Et quoniam mirari posse quosdam peregrinos existimo haec lecturos forsitan, si contigerit, quamobrem cum oratio ad ea monstranda deflexerit quae Romae gererentur, nihil praeter seditiones narratur et tabernas et vilitates harum similis alias, summatim causas perstringam nusquam a veritate sponte propria digressurus.</p1>
+
+    <h2> Ideología</h2>
+    <p1>Denique Antiochensis ordinis vertices sub uno elogio iussit occidi ideo efferatus, quod ei celebrari vilitatem intempestivam urgenti, cum inpenderet inopia, gravius rationabili responderunt; et perissent ad unum ni comes orientis tunc Honoratus fixa constantia restitisset.</p1>
+    
+    <h3> Reconocimiento mundial </h3>
+    <p2>Altera sententia est, quae definit amicitiam paribus officiis ac voluntatibus. Hoc quidem est nimis exigue et exiliter ad calculos vocare amicitiam, ut par sit ratio acceptorum et datorum. Divitior mihi et affluentior videtur esse vera amicitia nec observare restricte, ne plus reddat quam acceperit; neque enim verendum est, ne quid excidat, aut ne quid in terram defluat, aut ne plus aequo quid in amicitiam congeratur.</p2>
+
+    <h4> Gran cambio </h4>
+    <p3>Haec igitur Epicuri non probo, inquam. De cetero vellem equidem aut ipse doctrinis fuisset instructior est enim, quod tibi ita videri necesse est, non satis politus iis artibus, quas qui tenent, eruditi appellantur aut ne deterruisset alios a studiis. quamquam te quidem video minime esse deterritum.</p3>
+
+    <h5> Algunas cifras</h5>
+    <p4> Et quoniam mirari posse quosdam peregrinos existimo haec lecturos forsitan, si contigerit, quamobrem cum oratio ad ea monstranda deflexerit quae Romae gererentur, nihil praeter seditiones narratur et tabernas et vilitates harum similis alias, summatim causas perstringam nusquam a veritate sponte propria digressurus.</p4>
+
+    
+    <h6>Las fechas principales</h6>
+      
+    <ul>
+
+      <li>El País fundado por José Ortega en 1976</li>
+      <li>En 2012, la difusion fue de 324.814 ejemplares</li>
+      <li>El 4 de mayo de 2014 Antonio Caño asume la dirección del diario</li>
+      <li>En junio de 2018, Antonio Caño fue sustituido por Soledad Gallego-Díaz.</li>
+      <br>
+      <img style="width: 10%"; src="./images/Jose_Ortega_Spottorno.jpg">
+
+    </ul>
+    
+    <footer>
+      <h7> Otros artículos que pueden ser de interés : </h7>
+      
+       
+      <ul> 
+      <li> <a href="https://elpais.com/economia/">Economia</a></li> 
+      <li> <a href="https://elpais.com/sociedad/">Sociedad</a> </li>
+      <li><a href="https://elpais.com/clima-y-medio-ambiente/">Medio Ambiente</li>
+       
+
+      
+    </footer>
+</body> 
+</html>
